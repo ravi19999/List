@@ -1,0 +1,23 @@
+{
+  "name": "list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi19999/List.git"
+  },
+  "keywords": [],
+  "author": "Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi19999/List/issues"
+  },
+  "homepage": "https://github.com/ravi19999/List#readme",
+  "bin": {
+    "nls": "index.js"
+  }
+}
