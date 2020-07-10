@@ -1,6 +1,6 @@
 ## List
 
-A different version UNIX LS command written in Node JS.
+A different version of the Unix LS command written in Node JS.
 
 - Npm Install.
 - Folders are red and bolded.
